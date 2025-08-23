@@ -66,28 +66,12 @@
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pritam-sharma&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pritam-sharma&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
 
-### 💡 Fun Section  
+### ✍️ Dev Quote  
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=zues&font=Gabrielle" alt="Dev Quote" width="600" />
+  <img src="https://readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="700" />
 </p>
-
----
-
-### ✍️ Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
-
----
-
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/pritam-sharma/pritam-sharma/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
