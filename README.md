@@ -20,7 +20,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 I’m currently learning **MERN Stack**  
+- 🌱 I’m currently working on **MERN Stack**  
 - 💬 Ask me about **React.js, Node.js, Express, MongoDB**  
 - 📫 Reach me at **prish8024@gmail.com**  
 - ⚡ Fun fact: *“Debugging: Where you spend 90% of your time convincing your code to do what it’s already supposed to do.”* 😎  
@@ -61,15 +61,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-sharma&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
 </p>
-
----
-
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=pritam-sharma&theme=radical&margin-w=15" alt="Trophies" />
-</p>
-
-
 
 ---
 
