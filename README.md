@@ -66,8 +66,9 @@
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pritam-sharma&theme=radical&no-frame=false&no-bg=false&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=pritam-sharma&theme=radical&margin-w=15" alt="Trophies" />
 </p>
+
 
 
 ---
